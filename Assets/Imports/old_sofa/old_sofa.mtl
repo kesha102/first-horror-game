@@ -1,0 +1,61 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl Iron_Rough_Rusty
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Iron_Rough_Rusty.png
+
+newmtl Walnut_Matte
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Walnut_Matte.png
+
+newmtl Material_71
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Material_71.png
+
+newmtl Material_70
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Material_70.png
+
+newmtl Iron_Rough_Worn_Edges
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Ni 0.98
+Pl 1
+Prfl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd Iron_Rough_Worn_Edges.png
